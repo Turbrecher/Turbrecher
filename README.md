@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Turbrecher
-- 👀 I’m interested backend web developing
+- 👀 I’m interested in backend web developing
 - 🌱 I’m currently learning django, rest and python
 
 <!---
