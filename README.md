@@ -8,8 +8,8 @@
   <!-- IMAGEN, COLUMNA IZQUIERDA DE LA TABLA -->
   <td>
     <div>
-      <img src="![Imagen de WhatsApp 2025-03-04 a las 14 43 09_2c0929f7](https://github.com/user-attachments/assets/0d3dd6e6-0631-4434-8032-391fc2abe161)
-" width="100%" ><br>
+      <img src="https://github.com/user-attachments/assets/0d3dd6e6-0631-4434-8032-391fc2abe161"
+ width="100%" ><br>
     </div>
   </td>
 
@@ -27,7 +27,7 @@
     · SASS<br>
   </p>
   
-  <h3>☆ I use the following programming languages ☆</h3>
+  <h3>☆ I code in the following programming languages ☆</h3>
 	<p>
     · Python<br>
     · PHP<br>
