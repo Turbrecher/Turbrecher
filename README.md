@@ -8,7 +8,8 @@
   <!-- IMAGEN, COLUMNA IZQUIERDA DE LA TABLA -->
   <td>
     <div>
-      <img src="https://github.com/user-attachments/assets/fdfbddb7-60ab-491f-8c13-2167dffdd97c" width="100%" ><br>
+      <img src="![Imagen de WhatsApp 2025-03-04 a las 14 43 09_2c0929f7](https://github.com/user-attachments/assets/0d3dd6e6-0631-4434-8032-391fc2abe161)
+" width="100%" ><br>
     </div>
   </td>
 
