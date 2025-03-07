@@ -16,8 +16,8 @@
   <td>
 		
   <div>
-  <h1>👋 Hi, I’m Víctor Vera Coronel, a recently graduated web developer.</h1>
-  <h3>🌱 I use the following technologies:</h3>
+  <h1>👋 Hi, I’m Víctor Vera, a fullstack web developer.</h1>
+  <h3>☆ I use the following technologies ☆</h3>
   <p>
     · Django<br>
     · Laravel<br>
@@ -26,13 +26,20 @@
     · SASS<br>
   </p>
   
-  <h3>🍎 I use the following programming languages:</h3>
+  <h3>☆ I use the following programming languages ☆</h3>
 	<p>
     · Python<br>
     · PHP<br>
     · JavaScript<br>
     · TypeScript<br>
     · Java<br>
+	</p>
+
+  <h3>☆ I am really experienced with markup languages and stylesheets ☆</h3>
+         <p>
+    · HTML<br>
+    · CSS<br>
+    · SASS<br>
 	</p>
   </div>
 	
